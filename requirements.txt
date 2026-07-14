@@ -1,0 +1,6 @@
+presidio-analyzer
+presidio-anonymizer
+Faker
+PyMuPDF
+spacy
+tqdm
